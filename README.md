@@ -7,7 +7,7 @@
    3. Prediction results reflected the similar change and trend as the real stock price data in that period.
 
 
-### Bank Note Authentication using Random forest | Simon Frasor University	  Nov 2020
+### Bank Note Authentication using Random forest 
 
   1. Applied Random Forest algorithm to predict the bank note is genuine or fake.
 
